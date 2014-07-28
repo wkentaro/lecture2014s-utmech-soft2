@@ -1,0 +1,8 @@
+kako過去問
+*.pdf
+.DS_Store
+*.pyc
+*.png
+*.tar.gz
+*.zip
+docs/
